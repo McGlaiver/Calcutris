@@ -11,5 +11,5 @@ Each time player does 5 right equations level increases, increasing falling spee
 
 If a player does 5 right equations in a row the following score reward is doubled.
 
-The Game preview is available at following link:
+The Game application is available at following link:
 
